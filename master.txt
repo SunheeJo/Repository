@@ -2,4 +2,5 @@
 3way merge test2
 3way merge test3
 3way merge test3
-3way merge test3
+3way merge test4
+3way merge test4

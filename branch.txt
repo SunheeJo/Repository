@@ -1,8 +1,1 @@
-asfdfsafsda
-asfdfsafsda
-asfdfsafsdafdaf
-aaaaaaaaab
-bbbbbbbbbb
-ccccccccc
-afsdddddd
-sdaf
+3way merge test
